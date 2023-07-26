@@ -2,7 +2,7 @@
 //GradeBook class definition in a separate file from main.
 #include <iostream>
 #include <string>
-using namespace std;
+using std::cout, std::endl, std::string;
 
 class GradeBook
 {

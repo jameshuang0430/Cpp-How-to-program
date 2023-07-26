@@ -1,7 +1,7 @@
 //include class GradeBook from file GradeBook.h for use in main.
 #include<iostream>
 #include "GradeBook.h" // include definition of class GradeBook
-using namespace std;
+using std::cout, std::endl;
 
 int main()
 {
