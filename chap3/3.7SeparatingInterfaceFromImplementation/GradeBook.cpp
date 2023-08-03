@@ -1,3 +1,5 @@
+// GradeBook member-function definitions. This file contains
+// implementatios of the member functions prototyped in GradeBook.h.
 #include <iostream>
 #include "GradeBook.h" // include definition of class GradeBook
 using std::cout, std::endl;
